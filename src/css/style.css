@@ -1,0 +1,40 @@
+
+#main-grid {
+  margin-top: 20px;
+}
+
+#submit-grid {
+    margin-top: 1rem;
+}
+
+#feedback-grid {
+    margin-top: 1rem;
+}
+
+#status-bar {
+    padding: 2px 1rem;
+    span {
+        margin-right: 10px;
+    }
+}
+
+#modal-text {
+    padding: 8px;
+}
+
+.subproblem {
+    background-color: #FFAAAA;
+    padding: 1px 8px 1px 8px;
+    border-radius: 2px;
+    margin: 2px 2px;
+    line-height: 20px;
+}
+
+.subproblem:hover {
+    background-color: #55CCFF;
+}
+
+.subproblem.solved {
+    background-color: #AAFFAA;
+    padding: 1px 4px 1px 4px;
+}
